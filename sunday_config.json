@@ -1,0 +1,8 @@
+{
+  "main_path": "current",
+  "model_folder": "WWD_Models",
+  "noise_folder" : "Noise",
+  "wake_word_folder" : "wake_word",
+  "buffer_folder": "Buffer",
+  "wake_word_model": "first_model"
+}
